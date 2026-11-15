@@ -14,18 +14,13 @@ window.EKSTRA = {
     { t:"Sakin enstrümantal", q:"calm instrumental music", s:"YouTube" }
   ],
   okuma: [
-    { t:"How to Do Great Work", u:"https://paulgraham.com/greatwork.html", s:"Paul Graham" },
-    { t:"Do Things that Don't Scale", u:"https://paulgraham.com/ds.html", s:"Paul Graham" },
-    { t:"What You'll Wish You'd Known", u:"https://paulgraham.com/hs.html", s:"Paul Graham" },
-    { t:"How to Get Startup Ideas", u:"https://paulgraham.com/startupideas.html", s:"Paul Graham" },
-    { t:"Maker's Schedule, Manager's Schedule", u:"https://paulgraham.com/makersschedule.html", s:"Paul Graham" },
-    { t:"Why Nerds Are Unpopular", u:"https://paulgraham.com/nerds.html", s:"Paul Graham" },
-    { t:"The Tail End", u:"https://waitbutwhy.com/2015/12/the-tail-end.html", s:"Wait But Why" },
-    { t:"The Fermi Paradox", u:"https://waitbutwhy.com/2014/05/fermi-paradox.html", s:"Wait But Why" },
-    { t:"The Story of Us", u:"https://waitbutwhy.com/2019/08/story-of-us.html", s:"Wait But Why" },
-    { t:"The Guardian — The Long Read", u:"https://www.theguardian.com/news/series/the-long-read", s:"uzun okuma arşivi" },
-    { t:"Aeon — Essays", u:"https://aeon.co/essays", s:"fikir yazıları" },
-    { t:"Longreads — seçki", u:"https://longreads.com", s:"kurgu dışı" }
+    { t:"Birikim — siyaset, kültür ve düşünce yazıları", u:"https://birikimdergisi.com", s:"Birikim" },
+    { t:"Manifold — teknoloji, tasarım ve felsefe denemeleri", u:"https://manifold.press", s:"Manifold" },
+    { t:"Aposto — günlük uzun okuma bülteni", u:"https://aposto.com", s:"Aposto" },
+    { t:"Teyit — doğrulama raporları", u:"https://teyit.org", s:"Teyit" },
+    { t:"Gazete Duvar — yazar yazıları ve söyleşiler", u:"https://gazeteduvar.com.tr/yazarlar", s:"Gazete Duvar" },
+    { t:"5Harfliler — mizah ve deneme", u:"https://www.5harfliler.com", s:"5Harfliler" },
+    { t:"Evrim Ağacı — bilim yazıları", u:"https://evrimagaci.org", s:"Evrim Ağacı" }
   ],
   teknoloji: [
     { t:"Webrazzi", u:"https://webrazzi.com", s:"Türkçe startup/girişim" },
