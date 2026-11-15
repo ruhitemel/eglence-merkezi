@@ -1,0 +1,4 @@
+# davranış verisi ve kişisel notlar asla GitHub'a gitmez
+davranis-*.json
+OGRENME.md
+.DS_Store
